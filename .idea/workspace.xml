@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee925f17-124a-452d-8dae-80a94441c7cb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mbgdkp4H5ck2laHACA2pVUWzR9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee925f17-124a-452d-8dae-80a94441c7cb" name="Default Changelist" comment="" />
+      <created>1609767796251</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609767796251</updated>
+      <workItem from="1609767798137" duration="7388000" />
+      <workItem from="1612429884782" duration="15849000" />
+      <workItem from="1613312027885" duration="3758000" />
+      <workItem from="1613317242849" duration="2299000" />
+      <workItem from="1613472953575" duration="605000" />
+      <workItem from="1613473963609" duration="11236000" />
+      <workItem from="1613502262918" duration="11485000" />
+      <workItem from="1613651603837" duration="22243000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="93" y="260" key="#Notifications" timestamp="1613473006350">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="93" y="260" key="#Notifications/0.25.1440.814@0.25.1440.814" timestamp="1613473006350" />
+    <state x="0" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1613485143378">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="0" y="91" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.25.1440.814@0.25.1440.814" timestamp="1613485143378" />
+    <state x="1648" y="358" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609769589234">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="1648" y="358" key="#com.intellij.fileTypes.FileTypeChooser/0.25.1440.875/1440.25.1920.1055@1440.25.1920.1055" timestamp="1609769589234" />
+    <state x="98" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613665910409">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="98" y="183" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.814@0.25.1440.814" timestamp="1613665910409" />
+    <state x="1681" y="426" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1609769486267">
+      <screen x="1440" y="25" width="1920" height="1055" />
+    </state>
+    <state x="1681" y="426" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.25.1440.875/1440.25.1920.1055@1440.25.1920.1055" timestamp="1609769486267" />
+    <state x="25" y="194" width="670" height="675" key="run.anything.popup" timestamp="1613552917004">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="25" y="194" width="670" height="675" key="run.anything.popup/0.25.1440.814@0.25.1440.814" timestamp="1613552917004" />
+    <state x="25" y="163" width="670" height="676" key="search.everywhere.popup" timestamp="1613668768353">
+      <screen x="0" y="25" width="1440" height="814" />
+    </state>
+    <state x="25" y="163" width="670" height="676" key="search.everywhere.popup/0.25.1440.814@0.25.1440.814" timestamp="1613668768353" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/routes/auth.js</url>
+          <line>94</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
